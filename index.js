@@ -1,2 +1,2 @@
-let Hello = 'Welcome'
-alert(Welcome)
+let Hello = 'Welcome';
+alert(Hello);
